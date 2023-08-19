@@ -7,4 +7,4 @@
 # HDMI-1 connected 768x1366+1920+103 left (normal left inverted right x axis y axis) 160mm x 90mm
 # DP-1 connected primary 1920x1080+0+0 (normal left inverted right x axis y axis) 527mm x 296mm
 xrandr --output DP-1 --mode 1920x1080 --pos 0x0 --rotate normal \
-       --output HDMI-1 --mode 1366x768 --pos 1920x126 --rotate left
+       --output HDMI-1 --mode 1360x768 --pos 1920x126 --rotate left
