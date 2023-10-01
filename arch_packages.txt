@@ -91,3 +91,4 @@ thunderbird
 glibc
 lib32-glibc
 firefox
+firefox-gnome-theme
