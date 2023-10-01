@@ -1,10 +1,6 @@
 brave-bin
-kdeplasma-addons
-kwallet
-kwalletmanager
 fprintd
 nextcloud-client
-thunderbird-appmenu-bin
 onlyoffice-bin
 figma-linux
 dbeaver
@@ -22,7 +18,6 @@ zoom
 intellij-idea-ultimate-edition
 webstorm
 zsh-autosuggestions
-kalendar
 docker
 zsh-syntax-highlighting
 via-bin
@@ -37,10 +32,7 @@ xclip
 jdk11-openjdk
 jdk17-openjdk
 update-grub
-partitionmanager
 sg3_utils
-telepathy-kde-accounts-kcm
-filelight
 maven
 jdk18-openj9-bin
 php
@@ -50,7 +42,7 @@ dotnet
 dotnet-sdk
 postgresql
 kafka
-rstudio-bin
+rstudio-desktop-bin
 virtualbox
 scrcpy
 android-studio
@@ -65,8 +57,7 @@ pam-u2f
 yubico-authenticator-bin
 libfido2
 yubikey-full-disk-encryption
-timeshift
-plasma-browser-integration
+timeshift	
 phpstorm
 php74
 php74-cli
@@ -90,3 +81,13 @@ php74-pgsql
 php74-mysql
 openconnect-sso
 filezilla
+gnome
+gnome-tweaks
+gnome-shell-extension-gsconnect
+gnome-themes-extra
+chrome-gnome-shell
+whatsie
+thunderbird
+glibc
+lib32-glibc
+firefox
